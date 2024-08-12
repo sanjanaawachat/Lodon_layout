@@ -104,3 +104,6 @@ a:visited {
     display: flex;
   }
 
+.main-section{
+  background-image: url(./images/Header\ Image.png);
+}
